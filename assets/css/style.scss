@@ -298,7 +298,7 @@ header li:hover {
   background: linear-gradient(to top, #C3001D 0%,#950119 100%);
 }
 
-a.buttons {
+a.button {
 	-webkit-font-smoothing: antialiased;
 	border: none;
 	font-weight: normal;
@@ -310,7 +310,7 @@ a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
-a.buttons:hover {
+a.button:hover {
 	color: #fff;
 	text-decoration: none;
 }

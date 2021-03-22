@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: DAENET GmbH
 description: Projects descriptions and repositories
+show_downloads: true

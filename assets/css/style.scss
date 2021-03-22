@@ -1,0 +1,15 @@
+---
+---
+
+@import "jekyll-theme-dinky";
+b.buttons {
+	-webkit-font-smoothing: antialiased;
+	font-weight: normal;
+	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+	height: 30px;
+}
+
+b.buttons:hover {
+	color: #fff;
+	text-decoration: none;
+}

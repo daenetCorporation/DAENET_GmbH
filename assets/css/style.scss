@@ -218,15 +218,15 @@ td {
 header {
 	background-color: #171717;
 	color: #FFFF;
-  width:170px;
+  width:370px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
-	-webkit-border-top-right-radius: 8px;
+	-webkit-border-top-right-radius: 18px;
 	-webkit-border-bottom-right-radius: 8px;
-	-moz-border-radius-topright: 8px;
+	-moz-border-radius-topright: 18px;
 	-moz-border-radius-bottomright: 8px;
-	border-top-right-radius: 8px;
+	border-top-right-radius: 18px;
 	border-bottom-right-radius: 8px;
 	padding: 45px 45px 42px 100px;
 	margin: 90px 85px 0 0;
@@ -248,7 +248,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #fff;
+	color: #ffff;
 }
 
 a.header {
@@ -266,21 +266,21 @@ header ul {
 
 header li {
 	list-style-type: none;
-  width:132px;
-  height:15px;
-	margin-bottom: 120px;
+  width:320px;
+  height:50px;
+	margin-bottom: 150px;
 	line-height: 3em;
 	padding: 26px 26px 6px 7px;
 
-	background: #AF0011;
+	background: #118200;
 	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
   background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
   background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
+  background: -ms-linear-gradient(top, #AF0011 0%,#118200 100%);
   background: linear-gradient(to top, #AF0011 0%,#820011 100%);
 
-	border-radius:14px;
+	border-radius:30px;
   border:1px solid #0D0D0D;
 
 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
@@ -325,7 +325,7 @@ a.button:hover {
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:1500px;
   float:right;
   padding-bottom:50px;
 }
@@ -334,7 +334,7 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  width:150px;
   float:left;
   position:fixed;
   bottom:10px;

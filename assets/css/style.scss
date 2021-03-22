@@ -299,11 +299,17 @@ header li:hover {
 }
 
 a.button {
-	-webkit-font-smoothing: antialiased;
+	
 	border: none;
 	font-weight: normal;
-	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	height: 30px;
+        padding: 4px 40px;
+  text-align: left;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 a.github {
@@ -335,7 +341,7 @@ footer {
 	padding-left: 50px;
 }
 
-@media print, screen and (max-width: 1500px) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
@@ -417,7 +423,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:08pt;
     color:#444;
   }
 }

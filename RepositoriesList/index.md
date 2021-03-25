@@ -6,7 +6,6 @@ Here Repositories list must be included
     <th>Repository Name</th>
     <th>Project details in GitHub pages</th>
     <th>GitHub link<th>
-  </tr>
   <tr>
     <td>Event Hub Logger- WHAT IS THIS PROJECT ABOUT</td>
     <td>EventHubLogger</td>

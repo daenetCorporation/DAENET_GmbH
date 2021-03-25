@@ -1,8 +1,5 @@
 Here Repositories list must be included
 
-[Link to TESTING](./Daenet.Common.Logging.Sql.html).
-
-[Link to TESTING11111](./Daenet.Common.Logging.Sql.md)
 
 <table id="table1">
   <tr>
@@ -20,7 +17,7 @@ Here Repositories list must be included
   <tr>
     <td>Daenet Logging in SQL server DB</td>
     <td>Daenet.Common.Logging.Sql</td>
-    <td>Project details in GitHub pages</td>
+    <td><a href="https://daenetcorporation.github.io/DAENET_GmbH/Pages for Repositories/Daenet.Common.Logging.Sql/">GitHub page for 'Daenet.Common.Logging.Sql'</a></td>
     <td><a href="https://github.com/daenetCorporation/Daenet.Common.Logging.Sql">Click here to go to GitHub</a></td>
   </tr>
   <tr>

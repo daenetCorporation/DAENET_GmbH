@@ -10,7 +10,7 @@ Here Repositories list must be included
   <tr>
     <td>Azure Event Hub Logger</td>
     <td>EventHubLogger</td>
-    <td>Project details in GitHub pages</td>
+    <td><a href="https://daenetcorporation.github.io/DAENET_GmbH/Pages_for_repositories/EventHubLogger/">GitHub page for 'EventHubLogger'</a></td>
     <td><a href="https://github.com/daenetCorporation/EventHubLogger">Click here to go to GitHub</a></td>
   </tr>
   <tr>

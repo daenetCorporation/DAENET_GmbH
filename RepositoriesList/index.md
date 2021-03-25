@@ -5,263 +5,264 @@ Here Repositories list must be included
     <th>Project Name</th>
     <th>Repository Name</th>
     <th>Project details in GitHub pages</th>
-    <th>GitHub link<th>
+    <th>GitHub link</th>
+  </tr> 
   <tr>
-    <td>Event Hub Logger- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Event Hub Logger</td>
     <td>EventHubLogger</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/EventHubLogger<td>
+    <td><a href="https://github.com/daenetCorporation/EventHubLogger">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Daenet Common Logging Sql- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Daenet Logging in SQL server DB</td>
     <td>Daenet.Common.Logging.Sql</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Daenet.Common.Logging.Sql<td>
+    <td><a href="https://github.com/daenetCorporation/Daenet.Common.Logging.Sql">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>MCW App Modernization- WHAT IS THIS PROJECT ABOUT</td>
+    <td>MCW App Modernization</td>
     <td>MCW-App-modernization</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/MCW-App-modernization<td>
+    <td><a href="https://github.com/daenetCorporation/MCW-App-modernization">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Tensor Flow .NET Classification Example- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Tensor Flow and .NET Classification Example</td>
     <td>TensorFlow.NET.ClassificationExample</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/TensorFlow.NET.ClassificationExample<td>
+    <td><a href="https://github.com/daenetCorporation/TensorFlow.NET.ClassificationExample">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure SDK for .NET- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure SDK for .NET</td>
     <td>azure-sdk-for-net</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-sdk-for-net<td>
+    <td><a href="https://github.com/daenetCorporation/azure-sdk-for-net">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Durable Task Microservices- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Durable Task Framework Microservices- WHAT IS THIS PROJECT ABOUT</td>
     <td>DurableTaskMicroservices</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/DurableTaskMicroservices<td>
+    <td><a href="https://github.com/daenetCorporation/DurableTaskMicroservices">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Storage Queue .NET getting started- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Storage Queue service in .NET Introductory sample</td>
     <td>storage-queue-dotnet-getting-started</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/storage-queue-dotnet-getting-started<td>
+    <td><a href="https://github.com/daenetCorporation/storage-queue-dotnet-getting-started">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>.NET SDK- WHAT IS THIS PROJECT ABOUT</td>
+    <td>SDK for .NET </td>
     <td>dotnet-sdk</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/dotnet-sdk<td>
+    <td><a href="https://github.com/daenetCorporation/dotnet-sdk">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Documentations- WHAT IS THIS PROJECT ABOUT</td>
+    <td>.NET Documentations</td>
     <td>docs</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/docs<td>
+    <td><a href="https://github.com/daenetCorporation/docs">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>IoT Ede OPC Publisher- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Industrial IoT-OPC Publisher</td>
     <td>iot-edge-opc-publisher</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/iot-edge-opc-publisher<td>
+    <td><a href="https://github.com/daenetCorporation/iot-edge-opc-publisher">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>IoT Ede OPC PLC- WHAT IS THIS PROJECT ABOUT</td>
+    <td>OPC UA server with nodes generating random data</td>
     <td>iot-edge-opc-plc</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/iot-edge-opc-plc<td>
+    <td><a href="https://github.com/daenetCorporation/iot-edge-opc-plc">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Industrial IoT- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Industrial IoT</td>
     <td>Industrial-IoT</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Industrial-IoT<td>
+    <td><a href="https://github.com/daenetCorporation/Industrial-IoT">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>IoT Edge- WHAT IS THIS PROJECT ABOUT</td>
+    <td>IoT Edge OSS</td>
     <td>iotedge</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/iotedge<td>
+    <td><a href="https://github.com/daenetCorporation/iotedge">Click here to go to GitHub</a></td>
   </tr>
   <tr>
     <td>rd-pr- WHAT IS THIS PROJECT ABOUT</td>
     <td>rd-pr</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/rd-pr<td>
+    <td><a href="https://github.com/daenetCorporation/rd-pr">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>owinfirewall- WHAT IS THIS PROJECT ABOUT</td>
+    <td>ASP .NET Middleware</td>
     <td>owinfirewall</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/owinfirewall<td>
+    <td><a href="https://github.com/daenetCorporation/owinfirewall">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>myr tille- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Native HTML4/HTML5 RDP Client</td>
     <td>myrtille</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/myrtille<td>
+    <td><a href="https://github.com/daenetCorporation/myrtille">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Daenet Common SQL- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Daenet Common SQL classes</td>
     <td>Daenet.Common.Sql</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Daenet.Common.Sql<td>
+    <td><a href="https://github.com/daenetCorporation/Daenet.Common.Sql">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Application Insights ASP .NET core- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Application Insights ASP .NET core Web application insights</td>
     <td>ApplicationInsights-aspnetcore</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/ApplicationInsights-aspnetcore<td>
+    <td><a href="https://github.com/daenetCorporation/ApplicationInsights-aspnetcore">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Alexa .NET- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Alexa artifacts for .NET</td>
     <td>alexa.net</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/alexa.net<td>
+    <td><a href="https://github.com/daenetCorporation/alexa.net">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>monitor-dotnet-metrics-api- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Monitor Metrics API</td>
     <td>monitor-dotnet-metrics-api</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/monitor-dotnet-metrics-api<td>
+    <td><a href="https://github.com/daenetCorporation/monitor-dotnet-metrics-api">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Cab File Packer- WHAT IS THIS PROJECT ABOUT</td>
+    <td>.cab File Packer in directory</td>
     <td>CabFilePacker</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/CabFilePacker<td>
+    <td><a href="https://github.com/daenetCorporation/CabFilePacker">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Daenet Common Logging- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Daenet Common ILogger</td>
     <td>Daenet.Common.Logging</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Daenet.Common.Logging<td>
+    <td><a href="https://github.com/daenetCorporation/Daenet.Common.Logging">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Durable Task- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Durable Task Framework</td>
     <td>durabletask</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/durabletask<td>
+    <td><a href="https://github.com/daenetCorporation/durabletask">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Header Validator Middleware- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Header Validator Middleware</td>
     <td>headervalidator-middleware</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/headervalidator-middleware<td>
+    <td><a href="https://github.com/daenetCorporation/headervalidator-middleware">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>AAD Token Generator- WHAT IS THIS PROJECT ABOUT</td>
+    <td>AAD Token Generator</td>
     <td>aadtokengenerator</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/aadtokengenerator<td>
+    <td><a href="https://github.com/daenetCorporation/aadtokengenerator">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Isolated Storage Logger- WHAT IS THIS PROJECT ABOUT</td>
+    <td>ILogger for UWP Isolated Storage</td>
     <td>IsolatedStorageLogger</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/IsolatedStorageLogger<td>
+    <td><a href="https://github.com/daenetCorporation/IsolatedStorageLogger">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Logging- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Common Logging</td>
     <td>Logging</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Logging<td>
+    <td><a href="https://github.com/daenetCorporation/Logging">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>UA .NET Standard Library- WHAT IS THIS PROJECT ABOUT</td>
+    <td>OPC Unified Architecture .NET Standard Library</td>
     <td>UA-.NETStandardLibrary</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/UA-.NETStandardLibrary<td>
+    <td><a href="https://github.com/daenetCorporation/UA-.NETStandardLibrary">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure IoT SDKs- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure IoT SDKs</td>
     <td>azure-iot-sdks</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-iot-sdks<td>
+    <td><a href="https://github.com/daenetCorporation/azure-iot-sdks">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure Service Bus Open SDK- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure Service Bus Open SDK</td>
     <td>AzureServiceBus-Open-SDK</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/AzureServiceBus-Open-SDK<td>
+    <td><a href="https://github.com/daenetCorporation/AzureServiceBus-Open-SDK">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure IoT SDK CSharp- WHAT IS THIS PROJECT ABOUT</td>
+    <td>CSharp SDK for Azure IoT Services connection</td>
     <td>azure-iot-sdk-csharp</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-iot-sdk-csharp<td>
+    <td><a href="https://github.com/daenetCorporation/azure-iot-sdk-csharp">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure Service Bus .NET- WHAT IS THIS PROJECT ABOUT</td>
+    <td>.NET for Azure Service Bus</td>
     <td>azure-service-bus-dotnet</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-service-bus-dotnet<td>
+    <td><a href="https://github.com/daenetCorporation/azure-service-bus-dotnet">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Configuration- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Configuration files</td>
     <td>Configuration</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Configuration<td>
+    <td><a href="https://github.com/daenetCorporation/Configuration">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Daenet Security Manager Owin- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Daenet Security Manager Owin Middleware</td>
     <td>Daenet.SecurityManager.Owin</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Daenet.SecurityManager.Owin<td>
+    <td><a href="https://github.com/daenetCorporation/Daenet.SecurityManager.Owin">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>AForge- WHAT IS THIS PROJECT ABOUT</td>
+    <td>PCL version of AForge .NET Framework</td>
     <td>aforge</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/aforge<td>
+    <td><a href="https://github.com/daenetCorporation/aforge">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>AMQP .NETlite- WHAT IS THIS PROJECT ABOUT</td>
+    <td>AMQP .NETlite library</td>
     <td>amqpnetlite</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/amqpnetlite<td>
+    <td><a href="https://github.com/daenetCorporation/amqpnetlite">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Core fx- WHAT IS THIS PROJECT ABOUT</td>
+    <td>.NET Core foundation libraries - CoreFX</td>
     <td>corefx</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/corefx<td>
+    <td><a href="https://github.com/daenetCorporation/corefx">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure IoT Protocol Gateway- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Azure IoT Protocol Gateway</td>
     <td>azure-iot-protocol-gateway</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-iot-protocol-gateway<td>
+    <td><a href="https://github.com/daenetCorporation/azure-iot-protocol-gateway">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Azure Content- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Articles and documentations on Azure</td>
     <td>azure-content</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/azure-content<td>
+    <td><a href="https://github.com/daenetCorporation/azure-content">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>AForge .NET- WHAT IS THIS PROJECT ABOUT</td>
+    <td>AForge .NET Framework</td>
     <td>AForge.NET</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/AForge.NET<td>
+    <td><a href="https://github.com/daenetCorporation/AForge.NET">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Telemetry Data and GPIO Outputs on every message- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Telemetry Data and GPIO Outputs-sample</td>
     <td>Pi2TelemetryWithGpio</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/Pi2TelemetryWithGpio<td>
+    <td><a href="https://github.com/daenetCorporation/Pi2TelemetryWithGpio">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Test Application for Fabric Cache- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Test Application for Fabric Cache</td>
     <td>TestAppFabricCache</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/TestAppFabricCache<td>
+    <td><a href="https://github.com/daenetCorporation/TestAppFabricCache">Click here to go to GitHub</a></td>
   </tr>
   <tr>
-    <td>Logic Application Device Connector Sample- WHAT IS THIS PROJECT ABOUT</td>
+    <td>Logic Application Device Connector Sample</td>
     <td>LogicApp-DeviceConnectorSample</td>
     <td>Project details in GitHub pages</td>
-    <td>https://github.com/daenetCorporation/LogicApp-DeviceConnectorSample<td>
+    <td><a href="https://github.com/daenetCorporation/LogicApp-DeviceConnectorSample">Click here to go to GitHub</a></td>
   </tr>
 </table>
